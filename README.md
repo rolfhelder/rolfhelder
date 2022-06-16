@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - :man_technologist: Back-end web developer. 
 - 💻 HTML, CSS, Javascript, TypeScript, Node.js.
-- :books: Graduated at **IME**  
+- :books: Graduated from **IME**  
 
 - ⚡ Fun facts: 
   - Graduated in Civil Engineering 👷‍♂️
