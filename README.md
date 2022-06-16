@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ### Hi, there. 👋
 
-- :man_technologist: Web developer. 
+- :man_technologist: Back-end web developer. 
 - 💻 HTML, CSS, Javascript, TypeScript, Node.js.
 - :books: Graduated at **IME**  
 
