@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 
 ### Hi, there. 👋
 
-- :man_technologist: Back-end web developer. 
-- 💻 HTML, CSS, Javascript, TypeScript, Node.js.
+- :man_technologist: no-end developer, aka, generalist 
+- 💻 Next.js, React, Golang, SQL.
 - :books: Graduated from **IME**  
 
 - ⚡ Fun facts: 
